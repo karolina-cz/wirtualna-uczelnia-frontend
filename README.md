@@ -1,1 +1,0 @@
-# wirtualna-uczelnia-frontend
